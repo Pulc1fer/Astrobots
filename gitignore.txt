@@ -1,5 +1,0 @@
-venv/
-requirements.txt
-__pycache__/
-*$py.class
-*.py[cod]

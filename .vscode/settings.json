@@ -1,7 +1,0 @@
-{
-    "files.exclude": {
-      "venv/**": true
-    },
-    "git.ignoredRepositories": ["venv"]
-  }
-  
